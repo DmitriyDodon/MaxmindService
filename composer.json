@@ -1,0 +1,11 @@
+{
+  "name": "dmitriy/maxmindservice",
+  "autoload": {
+    "psr-4": {
+      "MaxmindService\\dmitriy\\": "src/"
+    }
+  },
+  "require": {
+    "geoip2/geoip2": "~2.0"
+  }
+}
