@@ -2,7 +2,7 @@
 
 namespace MaxmindService\dmitriy;
 
-use App\Service\Geo\GeoServiceInteface;
+use InterfaceGeo\dmitriy\GeoServiceInteface;
 use GeoIp2\Database\Reader;
 
 class MaxmindService implements GeoServiceInteface
