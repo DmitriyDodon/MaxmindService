@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Service\Geo\GeoServisec;
+namespace MaxmindService\dmitriy;
 
 use App\Service\Geo\GeoServiceInteface;
 use GeoIp2\Database\Reader;
